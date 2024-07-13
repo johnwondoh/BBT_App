@@ -1,0 +1,7 @@
+﻿Date,Asset,Category,Expense_Type,Quantity,Details,Cost,Billed_From_Revenue,Comment,Cycle
+31/5/2024,trk0002,Purchase,Truck Purchase,1,,111006,No,,
+31/5/2024,trk0002,Insurance,Insurance,1,,2935,Yes,,March
+31/5/2024,trk0002,Container,Truck Accessories,2,,3500,Yes,,April
+31/5/2024,trk0002,Transport,,1,,700,Yes,,May
+31/5/2024,trk0002,Bank Account,DHL / Bank Account,1,,150,Yes,,May
+31/5/2024,trk0002,Company Serach,,1,,100,Yes,,May

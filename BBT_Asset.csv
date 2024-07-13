@@ -1,0 +1,3 @@
+﻿Asset_Class,Asset_ID,Asset_Description,Truck_Number,Registration,Manufacturer,Model,Serial_Number,Tracking_Details,Date_Acquired,Cost,Fully_Paid,Amount_Left,Insured,Insurance_Expiration_Date,Investors,Notes
+Truck,trk0001,,,,,,,,,,Yes,,,,,
+Truck,trk0002,,,,,,,,,,No,,,,,
